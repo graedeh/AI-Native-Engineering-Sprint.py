@@ -1,0 +1,12 @@
+[
+    {
+        "id": "T001",
+        "title": "network failure",
+        "category": "Network",
+        "urgency": "medium",
+        "affected_users": 50,
+        "priority": "high",
+        "status": "open",
+        "assigned_to": null
+    }
+]
